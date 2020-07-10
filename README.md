@@ -1,1 +1,3 @@
-# Multibranch
+# maven-project
+
+Simple Maven Project
